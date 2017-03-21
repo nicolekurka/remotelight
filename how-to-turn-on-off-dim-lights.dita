@@ -110,5 +110,8 @@
         </steps>
         <result>The light bulbs in the selected lighting group turn on, turn off, or dim depending
             on your selection.</result>
+        <postreq id="postreq_wgm_rrv_hz">
+            <p conref="legal-disc.dita#concept_xvw_1rv_hz/People"/>
+        </postreq>
     </taskbody>
 </task>
