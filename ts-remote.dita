@@ -26,10 +26,12 @@
         <steps-unordered>
           <step>
             <cmd>Restart the system</cmd>
+            <info>
+              <p conref="legal-disc.dita#legal/people"></p>
+            </info>
           </step>
         </steps-unordered>
       </remedy>
-      
     </troubleSolution>
   </troublebody>
 </troubleshooting>
