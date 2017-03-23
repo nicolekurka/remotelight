@@ -87,5 +87,8 @@
             </step>
           
         </steps>
+        <postreq>
+            <p conref="legal-disc.dita#legal/people"></p>
+        </postreq>
     </taskbody>
 </task>
